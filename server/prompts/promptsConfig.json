@@ -44,6 +44,16 @@
       "id": "testing",
       "name": "testing",
       "description": "Prompts related to testing"
+    },
+    {
+      "id": "seo",
+      "name": "seo",
+      "description": "Prompts related to seo"
+    },
+    {
+      "id": "email-development",
+      "name": "email-development",
+      "description": "Prompts related to email-development"
     }
   ],
   "prompts": [],
@@ -56,6 +66,8 @@
     "content_processing/prompts.json",
     "architecture/prompts.json",
     "general/prompts.json",
-    "testing/prompts.json"
+    "testing/prompts.json",
+    "seo/prompts.json",
+    "email-development/prompts.json"
   ]
 }

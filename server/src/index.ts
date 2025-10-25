@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * MCP Claude Prompts Server - Main Entry Point
  * Minimal entry point with comprehensive error handling, health checks, and validation

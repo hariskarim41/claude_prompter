@@ -1,0 +1,12 @@
+{
+  "prompts": [
+    {
+      "id": "html_email_expert",
+      "name": "HTML Email Expert",
+      "category": "email-development",
+      "description": "Expert HTML email designer, developer, and strategist specializing in deliverability, cross-client compatibility, mobile optimization, and theme support",
+      "file": "html_email_expert.md",
+      "arguments": []
+    }
+  ]
+}

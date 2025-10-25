@@ -1,0 +1,12 @@
+{
+  "prompts": [
+    {
+      "id": "local_seo_strategist",
+      "name": "Local SEO Strategist Expert",
+      "category": "seo",
+      "description": "Expert-level local SEO strategist specializing in optimizing websites for local businesses with comprehensive keyword research, on-page optimization, and internal linking strategies",
+      "file": "local_seo_strategist.md",
+      "arguments": []
+    }
+  ]
+}
